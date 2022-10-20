@@ -1,0 +1,94 @@
+/* CSS Document */
+body {
+    background-color: #1b4271;
+    font-family: Product Sans;
+}
+p {
+    color: #1b4171;
+    font-size: 18px;
+}
+
+/*Heading*/
+#htxt{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+#h1 {
+    display: flex; align-items: center;
+    border-radius: 25px;
+    background: #1b4171;
+    padding: 20px;  width: 500px; height: 200px; 
+    margin: 0 auto;
+    color: #fbb414;
+}
+#h2 {
+    display: flex; justify-content: center; align-items: center;
+    border-radius: 25px;
+    background: #1b4171;
+    padding: 20px;  width: 500px; height: 100px; 
+    margin: 0 auto;
+    text-align: center;
+    color: #fbb414;
+}
+#h1:hover, #h2:hover{
+    background: #fbb414;
+    color: #1b4171;
+    font-size: 27pt;
+}
+#paragraph1:hover{
+    background: #fbb414;
+    color: #1b4171;
+    font-size: 25pt;
+}
+#paragraph2:hover, #paragraph3:hover, #paragraph4:hover{
+    background: #fbb414;
+    color: #1b4171;
+    font-size: 17pt;
+}
+/*Paragraph*/
+#paragraph1 {
+    display: flex; justify-content: center; align-items: center;
+    border-radius: 25px;
+    background: #1b4171;
+    padding: 20px;  width: 300px; height: 20px; 
+    margin: 0 auto;
+    font-size: 24px;
+    color: #fbb414;
+}
+#paragraph2 {
+    display: flex; justify-content: center; align-items: center;
+    border-radius: 25px;
+    background: #1b4171;
+    padding: 15px;  width: 100px; height: 15px; 
+    margin: 0 auto;
+    color: #fbb414;
+}
+#paragraph3 {
+    display: flex; justify-content: center; align-items: center;
+    border-radius: 25px;
+    background: #1b4171;
+    padding: 15px;  width: 700px; height: 20px; 
+    margin: 0 auto;
+    color: #fbb414;
+}
+#paragraph4 {
+    display: flex; justify-content: center; align-items: center;
+    border-radius: 25px;
+    background: #1b4171;
+    padding: 15px;  width: 290px; height: 20px; 
+    margin: 0 auto;
+    color: #fbb414;
+}
+
+/*Others*/
+#break {
+    display: block;
+    margin: -.2em;
+    color:#1b4171;
+}
+#image {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
