@@ -68,7 +68,7 @@ p {
     display: flex; justify-content: center; align-items: center;
     border-radius: 25px;
     background: #1b4171;
-    padding: 15px;  width: 700px; height: 20px; 
+    padding: 15px;  width: 400px; height: 20px; 
     margin: 0 auto;
     color: #fbb414;
 }
